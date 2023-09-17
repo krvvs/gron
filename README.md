@@ -1,4 +1,4 @@
-# Plant E-Commerce Website Built With React
+# Plant E-Commerce Website
 > Built with `React`, styled with `Sass`, fetched data with `REST API`
 * [Original Repo](https://github.com/wecode-bootcamp-korea/46-1st-BestFriend-frontend)
 * [View Live Version](https://gron-project.vercel.app/)
