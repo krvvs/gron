@@ -1,7 +1,6 @@
 # Plant E-Commerce Website
 > Built with `React`, styled with `Sass`, fetched data with `REST API`
 * [Original Repo](https://github.com/wecode-bootcamp-korea/46-1st-BestFriend-frontend)
-* [View Live Version](https://gron-project.vercel.app/)
 * [Demo Video](https://youtu.be/z45k26sMhVE)
 
 I took a role as the **project manager** and **front-end developer** for this project. Our team consisted of three front-end developers and one back-end developer. we planned and developed a new plant shopping mall web service by modeling the Nike website. For the products to be sold on our e-commerce service, we decided on plants, plant pots, and plant care products.&#x20;
@@ -166,7 +165,8 @@ As a Project Manager, I contemplated how to effectively manage the project. I in
 -   Transparency for all team members to know what tasks everyone is working on.
 -   Establishing an asynchronous communication environment to reduce repetitive questions and inefficient communication.
 
-To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma]([https://www.figma.com/file/Yc8NMlYM3M3lqXAVfmn3Kg/gr%C3%B6n-Design?type=design&node-id=0%3A1&mode=design&t=dX9WrfwxV1y2jltE-1](https://www.figma.com/design/gBdFiI1I7FQDFCxTqOSeqw/gr%C3%B6n-Design?m=auto&t=xHICsk74WETaFxkP-6)), Notion, and Trello as collaboration tools.
+To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](https://www.figma.com/design/gBdFiI1I7FQDFCxTqOSeqw/gr%C3%B6n-Design?m=auto&t=xHICsk74WETaFxkP-6), Notion, and Trello as collaboration tools.
+To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](), Notion, and Trello as collaboration tools.
 To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](), Notion, and Trello as collaboration tools.
 
 ### Sprint 2
