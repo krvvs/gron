@@ -166,8 +166,6 @@ As a Project Manager, I contemplated how to effectively manage the project. I in
 -   Establishing an asynchronous communication environment to reduce repetitive questions and inefficient communication.
 
 To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](https://www.figma.com/design/gBdFiI1I7FQDFCxTqOSeqw/gr%C3%B6n-Design?m=auto&t=xHICsk74WETaFxkP-6), Notion, and Trello as collaboration tools.
-To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](), Notion, and Trello as collaboration tools.
-To achieve these goals, I attempted various forms of documentation and managed development tickets through a Kanban board. We primarily used [Figma](), Notion, and Trello as collaboration tools.
 
 ### Sprint 2
 
